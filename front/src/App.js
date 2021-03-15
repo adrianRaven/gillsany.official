@@ -162,11 +162,15 @@ function App() {
         <footer id="footer" class="section footer">
           <div class="container">
             <div class="footer-container">
-              <div class="footer-center">
-                <h3>EXTRAS</h3>
-                <a href="#">Nuestros Servicios</a>
-                <a href="#">Responsabilidad Social</a>
-              </div>
+            <div class="footer-col">
+                <h4>Siguenos</h4>
+                <div class="social-links">
+                    <a target="_blank" href="https://www.facebook.com/gillsany.mx"><i class="fab fa-facebook-f"></i></a>
+                    <a target="_blank" href="https://twitter.com/gillsany"><i class="fab fa-twitter"></i></a>
+                    <a target="_blank" href="https://www.instagram.com/gillsany.mx/"><i class="fab fa-instagram"></i></a>
+                    <a target="_blank" href="#"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
               <div class="footer-center">
                 <h3>INFORMACION</h3>
                 <a href="#">Acerca de nosotros</a>

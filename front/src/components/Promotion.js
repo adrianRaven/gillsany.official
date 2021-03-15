@@ -9,7 +9,7 @@ export default function Promotion(props) {
           <img src={promotion.image} alt="" />
           <div class="promotion-content">
             <h3>{promotion.category}</h3>
-            <a href="">VER AHORA</a>
+            <a href="/">VER AHORA</a>
           </div>
         </div>
     </>

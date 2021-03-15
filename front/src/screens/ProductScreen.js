@@ -63,9 +63,6 @@ export default function ProductScreen(props) {
           <section class="section related-products">
             <div class="title">
               <h2>Productos Relacionados</h2>
-              <span>
-                Select from the premium product brands and save plenty money
-              </span>
             </div>
             <div class="product-layout container">
               <div class="product">

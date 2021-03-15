@@ -25,15 +25,17 @@ export default function HomeScreen() {
       ) : (
         <>
           <div class="hero">
-            <div class="left">
-              <span>Venta Equipo Medico</span>
-              <h1>Hasta 12 meses sin Intereses</h1>
-              <small>Haz de tu negocio algo increible</small>
-              <a href="">Ver Productos </a>
-            </div>
-            <div class="right">
+          <img src="./images/herobanner1.jpg" class="hero" alt="" />
+          <div class="right">
               <img src="./images/hero.png" alt="" />
             </div>
+            <div class="left">
+              <span>GILLSANY</span>
+              <h1>Venta de Equipo Medico</h1>
+              <small>Hasta 12 meses sin intereses</small>
+              <a href={`/products`}>Ver Productos </a>
+            </div>
+            
           </div>
 
           <section class="section promotion">
@@ -70,18 +72,18 @@ export default function HomeScreen() {
               <div class="item ">
                 <img src="./images/promo7.jpg" alt=""></img>
                 <div class="content left">
-                  <span>Exclusive Sales</span>
-                  <h3>Spring Collections</h3>
-                  <a href="">View Collection</a>
+                  <span>Metodos de Pago</span>
+                  <h3>12 Meses sin intereses</h3>
+                  <a href="/">Ver informacion</a>
                 </div>
               </div>
 
               <div class="item">
                 <img src="./images/promo8.jpg" alt=""></img>
                 <div class="content  right">
-                  <span>New Trending</span>
-                  <h3>Designer Bags</h3>
-                  <a href="">Shop Now </a>
+                  <span>Extras</span>
+                  <h3>Conoce nuestros Servicios</h3>
+                  <a href="/">Ver informacion </a>
                 </div>
               </div>
             </div>

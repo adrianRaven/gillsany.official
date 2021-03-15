@@ -84,7 +84,7 @@ const data = {
     promotions: [
         {
             _id:'1',
-            category: 'Hospital',
+            category: 'Hospitales',
             image:'/images/promo1.jpg',
         },
         {
