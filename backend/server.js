@@ -24,9 +24,9 @@ app.get("/api/products", (req, res) => {
   res.send(data.products);
 });
 
-app.use(express.static(path.join(__dirname, '/frontend/build')));
+app.use(express.static(path.join(__dirname, '/front/build')));
 app.get('*', (req, res) =>
-  res.sendFile(path.join(__dirname, '/frontend/build/index.html'))
+  res.sendFile(path.join(__dirname, '/front/build/index.html'))
 );
 
 app.use((err, req, res, next) => {
