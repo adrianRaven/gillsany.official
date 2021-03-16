@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adrianRaven/gillsany.mx.git"
+    "url": "git+https://github.com/adrianRaven/Gillsany.git"
   },
   "author": "Adrian Alvarado",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/adrianRaven/gillsany.mx/issues"
   },
-  "homepage": "https://github.com/adrianRaven/gillsany.mx#readme"
+  "homepage": "https://github.com/adrianRaven/Gillsanymx#readme"
 }
