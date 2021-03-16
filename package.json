@@ -17,7 +17,8 @@
   },
   "engines": {"node":"12.4.0", "npm": "6.9.0"},
   "scripts": {
-    "build": "cd front && npm install && npm run build"
+    "build": "cd front && npm install && npm run build",
+    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
   },
   "repository": {
     "type": "git",
