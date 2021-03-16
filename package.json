@@ -2,7 +2,7 @@
   "name": "gillsanymx",
   "type": "module",
   "version": "1.0.0",
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "description": "Ecommerce.",
   "main": "index.js",
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -18,7 +18,8 @@
   "engines": {"node":"12.4.0", "npm": "6.9.0"},
   "scripts": {
     "build": "cd front && npm install && npm run build",
-    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
+    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js",
+    "start:dev": "nodemon fileName.js"
   },
   "repository": {
     "type": "git",
