@@ -45,28 +45,28 @@ function App() {
                       <header>Hospitales</header>
                       <ul class="mega-links">
                         <li>
-                          <a href="#">Monitores</a>
+                          <a href="/">Monitores</a>
                         </li>
                         <li>
-                          <a href="#">Telemetria</a>
+                          <a href="/">Telemetria</a>
                         </li>
                         <li>
-                          <a href="#">Desfibriladores</a>
+                          <a href="/">Desfibriladores</a>
                         </li>
                         <li>
-                          <a href="#">Electrocardiografos</a>
+                          <a href="/">Electrocardiografos</a>
                         </li>
                         <li>
-                          <a href="#">Bombas de infusion</a>
+                          <a href="/">Bombas de infusion</a>
                         </li>
                         <li>
-                          <a href="#">Maquinas de anestesia</a>
+                          <a href="/">Maquinas de anestesia</a>
                         </li>
                         <li>
-                          <a href="#">Ventiladores</a>
+                          <a href="/">Ventiladores</a>
                         </li>
                         <li>
-                          <a href="#">Lamparas para cirugia</a>
+                          <a href="/">Lamparas para cirugia</a>
                         </li>
                       </ul>
                     </div>
@@ -74,16 +74,16 @@ function App() {
                       <header>Veterinarias</header>
                       <ul class="mega-links">
                         <li>
-                          <a href="#">Monitores</a>
+                          <a href="/">Monitores</a>
                         </li>
                         <li>
-                          <a href="#">Desfibriladores</a>
+                          <a href="/">Desfibriladores</a>
                         </li>
                         <li>
-                          <a href="#">Electrocardiografos</a>
+                          <a href="/">Electrocardiografos</a>
                         </li>
                         <li>
-                          <a href="#">Ultrasonidos</a>
+                          <a href="/">Ultrasonidos</a>
                         </li>
                       </ul>
                     </div>
@@ -91,19 +91,19 @@ function App() {
                       <header>Spas</header>
                       <ul class="mega-links">
                         <li>
-                          <a href="#">Equipos de depilacion</a>
+                          <a href="/">Equipos de depilacion</a>
                         </li>
                         <li>
-                          <a href="#">Equipos fisioterapia</a>
+                          <a href="/">Equipos fisioterapia</a>
                         </li>
                         <li>
-                          <a href="#">Equipos multifuncion</a>
+                          <a href="/">Equipos multifuncion</a>
                         </li>
                         <li>
-                          <a href="#">Facial y corporal</a>
+                          <a href="/">Facial y corporal</a>
                         </li>
                         <li>
-                          <a href="#">Manicura y pedicura</a>
+                          <a href="/">Manicura y pedicura</a>
                         </li>
                       </ul>
                     </div>
@@ -111,10 +111,10 @@ function App() {
                 </div>
               </li>
               <li>
-                <a href="">Blog</a>
+                <a href="/">Blog</a>
               </li>
               <li>
-                <a href="" class="desktop-item">
+                <a href="/" class="desktop-item">
                   Pagina{" "}
                   <span>
                     <i class="fas fa-chevron-down"></i>
@@ -129,10 +129,10 @@ function App() {
                 </label>
                 <ul class="drop-menu2">
                   <li>
-                    <a href="">Nosotros</a>
+                    <a href="/w">Nosotros</a>
                   </li>
                   <li>
-                    <a href="">Contacto</a>
+                    <a href="/">Contacto</a>
                   </li>
                 </ul>
               </li>
@@ -173,18 +173,18 @@ function App() {
             </div>
               <div class="footer-center">
                 <h3>INFORMACION</h3>
-                <a href="#">Acerca de nosotros</a>
-                <a href="#">Politicas de Privacidad</a>
-                <a href="#">Terms & Conditions</a>
-                <a href="#">Contacto</a>
-                <a href="#">Mapa del sitio</a>
+                <a href="/">Acerca de nosotros</a>
+                <a href="/">Politicas de Privacidad</a>
+                <a href="/">Terms & Conditions</a>
+                <a href="/">Contacto</a>
+                <a href="/">Mapa del sitio</a>
               </div>
               <div class="footer-center">
                 <h3>Mi cuenta</h3>
-                <a href="#">Mi cuenta</a>
-                <a href="#">OHistorial de ordenes</a>
-                <a href="#">Wish List</a>
-                <a href="#">Newsletter</a>
+                <a href="/">Mi cuenta</a>
+                <a href="/">OHistorial de ordenes</a>
+                <a href="/">Wish List</a>
+                <a href="/">Newsletter</a>
               </div>
               <div class="footer-center">
                 <h3>CONTACTANOS</h3>

@@ -22,7 +22,7 @@
   },
   "scripts": {
     "build": "cd front && npm install && npm run build",
-    "start": "start --watch backend --experimental-modules backend/server.js"
+    "start": "nodemon --watch backend --experimental-modules backend/server.js"
   },
   "repository": {
     "type": "git",
